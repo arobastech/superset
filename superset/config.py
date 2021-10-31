@@ -154,7 +154,6 @@ SUPERSET_DASHBOARD_POSITION_DATA_LIMIT = 65535
 CUSTOM_SECURITY_MANAGER = None
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 
-SUPERSET_LOAD_EXAMPLES=yes
 # ---------------------------------------------------------
 
 # Your App secret key
