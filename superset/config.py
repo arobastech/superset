@@ -160,7 +160,7 @@ SQLALCHEMY_TRACK_MODIFICATIONS = False
 SECRET_KEY = "\2\1thisismyscretkey\1\2\\e\\y\\y\\h"
 
 # The SQLAlchemy connection string.
-SQLALCHEMY_DATABASE_URI = 'mysql://root:J$3koItUvOQ8*p1Z8_1Iiu5&V3FIMsru@z3be49816-mysql.hel.sh/superset'
+SQLALCHEMY_DATABASE_URI = 'mysql://qoveryadmin:friS-!Qiq4P-tz9Rt44TIny5nFC$WVr-@z7bb658ca-mysql.hel.sh/superset'
 # SQLALCHEMY_DATABASE_URI = "sqlite:///" + os.path.join(DATA_DIR, "superset.db")
 # SQLALCHEMY_DATABASE_URI = 'mysql://myapp@localhost/myapp'
 # SQLALCHEMY_DATABASE_URI = 'postgresql://root:password@localhost/myapp'
